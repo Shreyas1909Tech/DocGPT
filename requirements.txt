@@ -9,4 +9,3 @@ deep-translator==1.11.4
 transformers==4.36.0
 torch==2.2.0
 SpeechRecognition==3.10.0
-difflib-sequences==1.0.0
