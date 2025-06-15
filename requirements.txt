@@ -2,11 +2,20 @@
 flask==2.3.3
 flask-cors==4.0.0
 werkzeug==2.3.7
+<<<<<<< HEAD
 python-speech-recognition==3.10.0
+=======
+SpeechRecognition==3.10.0
+>>>>>>> 8355b0c69d045dd5243b009d8e2e47ca4d9bc656
 PyPDF2==3.0.1
 sumy==0.11.0
 deep-translator==1.11.4
 transformers==4.36.0
+<<<<<<< HEAD
 torch==2.1.1
 SpeechRecognition==3.10.0
 difflib-sequences==1.0.0
+=======
+torch==2.2.0
+SpeechRecognition==3.10.0
+>>>>>>> 8355b0c69d045dd5243b009d8e2e47ca4d9bc656
